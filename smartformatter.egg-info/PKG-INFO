@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: smartformatter
+Version: 0.1
+Summary: utility functions for smart formatting of names, phones, numbers.
+Author: Vasantha
+Requires-Dist: inflect
